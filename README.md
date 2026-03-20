@@ -1,5 +1,5 @@
 # sanket-demo
 this is my second repository .
 <br>
-authour- sanket prajapati 
+Authour- Sanket prajapati (sp)
 
